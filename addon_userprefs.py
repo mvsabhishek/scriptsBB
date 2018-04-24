@@ -10,4 +10,4 @@ bpy.data.objects['Lamp'].select = True
 bpy.data.objects['Camera'].select = True
 # remove it
 bpy.ops.object.delete() 
-bpy.ops.wm.save._userpref()
+bpy.ops.wm.save_userpref()
